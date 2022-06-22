@@ -12,7 +12,7 @@ $ yarn serve
 ```
 
 Finally, you only have to open http://localhost:9002 in a browser to see the app running
-But it's will show Single-SPA from text, which you must use with the root application to see the real app running in http://localhost:9002/vue3
+But it's will show Single-SPA from text, which you must use with the root application to see the real app running in http://localhost:9000/vue3
 
 ## Single-SPA applications
 This application is a registered application that inits a Single-SPA application must use with the root application:
