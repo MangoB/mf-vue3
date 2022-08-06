@@ -18,6 +18,6 @@ But it's will show Single-SPA from text, which you must use with the root applic
 ## Single-SPA applications
 This application is a registered application that inits a Single-SPA application must use with the root application:
 
-#### [mf-root](https://github.com/MangoB/mf-root), [mf-root2](https://github.com/MangoB/mf-root2)
+#### [mf-root](https://github.com/MangoB/mf-root), [mf-root-2](https://github.com/MangoB/mf-root-2)
 These applications are the root of a micro-frontends project,
 After running the root application and "mf-vue3" application has to open http://localhost:9000/vue3 in a browser to see the app running
